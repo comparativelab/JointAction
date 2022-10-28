@@ -1,6 +1,6 @@
 ## This site is a documentation of Joint Action during Table Tennis
 
-The data comprises 100 session that consists of 6 triads. The data of each session is organized as follow
+The data comprise 100 sessions that consist of 6 triads. The data of each session are organized as follow
 
 - 2022_10_27-SE001 (DATETIME-SESSIONID)
 	- ECG
